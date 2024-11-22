@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anirudh Singh
 - 👀 I’m interested in Natural and Formal Sciences, Philosophy, Literature and Arts
-- 🌱 I’m currently learning Advance Engineering Mathematics
+- 🌱 I’m currently learning Mathematics and Computation for Engineering applications
